@@ -20,7 +20,7 @@ while True:
             if l < 25.0:
                 print('du brauchst weniger als 25l Erde!')
             else:
-                print('Du brauchst soviel Erde das du jetzt pleite bist')
+                print(f'Du brauchst ca {l}l Erde.')
 
             break
         if wahl == 2:
